@@ -1,0 +1,7 @@
+include ':featureNotification'
+include ':featureChat'
+include ':featureHome'
+include ':featureProfile'
+include ':featureSearch'
+include ':app'
+rootProject.name = "Instagram Clone"
